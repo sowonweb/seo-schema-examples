@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SowonWeb",
+  "url": "https://sowonweb.co.kr",
+  "logo": "https://sowonweb.co.kr/logo.png",
+  "foundingDate": "2004-08-26",
+  "description": "SEO, GEO and AI Search Optimization Agency",
+  "sameAs": [
+    "https://www.linkedin.com/company/sowonweb",
+    "https://www.crunchbase.com/organization/sowonweb"
+  ],
+  "knowsAbout": [
+    "SEO",
+    "GEO",
+    "AEO",
+    "WordPress",
+    "AI Search Optimization"
+  ]
+}
